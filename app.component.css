@@ -1,0 +1,12 @@
+.input-spacer { padding-right: 10px; }
+.form-field-width {
+    width: 25%;
+}
+
+.mat-datepicker-content {
+    background-color: #fff;
+  }
+  
+  .mat-timepicker-content {
+    background-color: #fff;
+  }
